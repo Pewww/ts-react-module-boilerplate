@@ -5,7 +5,7 @@ Your Module will be built by [Rollup](https://rollupjs.org/guide/en/).
 
 
 ## What you should do
----
+
 ### STEP 1
 Install packages by 'npm install' or 'yarn'.
 
