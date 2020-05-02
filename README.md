@@ -18,3 +18,10 @@ Make your own module.
 
 ### STEP 4
 Build and Publish!
+
+---
+> **If rollup is not installed**
+
+```
+$ npm install --global rollup
+```
