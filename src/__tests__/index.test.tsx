@@ -1,4 +1,4 @@
-// Test code for your React Component
+// Test code of your React Component
 
 import React from 'react';
 import {render} from '@testing-library/react';
